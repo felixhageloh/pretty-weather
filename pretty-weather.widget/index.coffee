@@ -1,4 +1,4 @@
-apiKey: ''  # put your forcast.io api key inside the quotes here
+apiKey: '' # put your forcast.io api key inside the quotes here
 
 refreshFrequency: 60000
 
@@ -6,7 +6,7 @@ style: """
   bottom: 15%
   left: 50%
   margin: 0 0 0 -100px
-  font-family: Helvetica Neue
+  font-family: Berlin, Helvetica Neue
   color: #fff
 
   @font-face
