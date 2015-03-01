@@ -4,7 +4,7 @@
 
 ![screenshot](https://raw.githubusercontent.com/felixhageloh/pretty-weather/master/screenshot.png)
 
-## WHat's new
+## What's new
 
 The widget now uses the new Geolocation API to find your location automatically. Requires Übersicht 0.5 or later to work.
 
