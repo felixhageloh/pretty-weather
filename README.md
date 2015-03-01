@@ -4,6 +4,10 @@
 
 ![screenshot](https://raw.githubusercontent.com/felixhageloh/pretty-weather/master/screenshot.png)
 
+## WHat's new
+
+The widget now uses the new Geolocation API to find your location automatically. Requires Übersicht 0.5 or later to work.
+
 ## Installation
 
 Add your own forecast.io api key inside `index.coffee`. You can get yours here: https://developer.forecast.io.
